@@ -1,0 +1,11 @@
+@media (max-width:420px)
+{
+	.product-grid-4 .col-12{
+    width:50% !important;
+  }
+}
+
+.main-content {
+    text-align: center;
+    padding: 10rem 0rem;
+}
